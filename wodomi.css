@@ -1,0 +1,35 @@
+* {font-family:  'Roboto', sans-serif;}
+
+ h1 {font-family: 'Amatic SC', cursive;}
+h1, h2 {color:rgb(30, 66, 255); text-align: center;}
+p, a {text-align: center; color: rgb(148, 235, 247); }
+
+body {background-color: rgb(8, 16 , 64);}
+
+#cover {background: url("http://cdn.wallpapersafari.com/19/50/dIXOp7.jpg") no-repeat center bottom;
+        background-size: cover;
+        background-attachment: fixed;
+        height: 600px;
+        position: relative;
+        top: -55px;
+        width: 100%;
+        text-align: center;}
+
+.cover-content {box-sizing: border-box;
+                margin: 0 auto;
+                position: relative;
+                text-align: center;
+			    top: 280px;
+  				width: 100%;}
+
+.end {box-sizing: border-box;
+      margin: 0 auto;
+      padding-bottom: 10px;
+      padding-top: 10px;
+      position: relative;
+      text-align: center
+      top: 280px;
+  	  width: 100%;
+  	  background-color: rgb(148, 235, 247);}
+
+p.end {color: rgb(8 ,16 , 64);}
